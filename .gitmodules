@@ -1,0 +1,9 @@
+[submodule "api/records-service"]
+	path = api/records-service
+	url = https://github.com/waltercross79/genealogix-records-service.git
+[submodule "api/familytree-service"]
+	path = api/familytree-service
+	url = https://github.com/waltercross79/genealogix-familytree-service.git
+[submodule "web/client"]
+	path = web/client
+	url = https://github.com/waltercross79/genealogix-webclient.git
